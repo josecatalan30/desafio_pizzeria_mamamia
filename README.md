@@ -7,4 +7,4 @@ En este proyecto desarrollamos el primer hito correspondiente al modulo de React
 - Vite
 
 ## Autor
-Desarrollado con :heart: por José Catalán Solis
+Desarrollado con :heart: por José Catalán Solis# desafio_pizzeria_mamamia
